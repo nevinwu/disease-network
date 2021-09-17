@@ -8,3 +8,4 @@ Some scripts I used during my master's final project:
 - **promiscuity.r**: studies our drug's promiscuity among our disease network.
 - **network.cys**: Cytoscape file that contains the created disease network.
 - **funtional_analysis**: directory containing files related to funtional analysis performed with BiNGO.
+- **functions**: directory containing R functions used during this project.
