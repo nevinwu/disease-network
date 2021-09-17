@@ -9,3 +9,4 @@ Some scripts I used during my master's final project:
 - **network.cys**: Cytoscape file that contains the created disease network.
 - **funtional_analysis**: directory containing files related to funtional analysis performed with BiNGO.
 - **functions**: directory containing R functions used during this project.
+- **interactome.rda**: interactome used to create our disease network. Obtained from Luck, K., Kim, DK., Lambourne, L. et al. A reference map of the human binary protein interactome. Nature 580, 402–408 (2020). Link: http://www.interactome-atlas.org/
